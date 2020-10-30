@@ -1,4 +1,6 @@
-# Projeto do Curso APIs REST da Alura
+# Projeto Monitoramento Fórum Alura
+
+## Curso APIs REST da Alura
 
 > Informações pertinentes ao projeto abaixo:
 
